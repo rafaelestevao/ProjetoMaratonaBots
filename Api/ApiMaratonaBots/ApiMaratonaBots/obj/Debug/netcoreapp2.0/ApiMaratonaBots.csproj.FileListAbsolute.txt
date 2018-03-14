@@ -1,0 +1,11 @@
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\bin\Debug\netcoreapp2.0\ApiMaratonaBots.deps.json
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\bin\Debug\netcoreapp2.0\ApiMaratonaBots.runtimeconfig.json
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\bin\Debug\netcoreapp2.0\ApiMaratonaBots.runtimeconfig.dev.json
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\bin\Debug\netcoreapp2.0\ApiMaratonaBots.dll
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\obj\Debug\netcoreapp2.0\ApiMaratonaBots.csprojResolveAssemblyReference.cache
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\obj\Debug\netcoreapp2.0\ApiMaratonaBots.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\obj\Debug\netcoreapp2.0\ApiMaratonaBots.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\obj\Debug\netcoreapp2.0\ApiMaratonaBots.AssemblyInfo.cs
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\bin\Debug\netcoreapp2.0\ApiMaratonaBots.pdb
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\obj\Debug\netcoreapp2.0\ApiMaratonaBots.dll
+C:\Users\rafae\Documents\github-pessoal\ProjetoMaratonaBots\Api\ApiMaratonaBots\ApiMaratonaBots\obj\Debug\netcoreapp2.0\ApiMaratonaBots.pdb
