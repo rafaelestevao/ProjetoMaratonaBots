@@ -9,18 +9,19 @@ using ApiMaratonaBots.Repository;
 
 namespace ApiMaratonaBots.Controllers
 {
-    [Produces("application/json")]
-    [Route("api/Mail")]
+    [Route("api/mail")]
     public class MailController : Controller
     {
-        // GET: api/Mail
         [HttpPost]
-        public string Send([FromBody]MailModel value)
+        [Route("sendmail")]
+        public JsonResult Post([FromBody]MailModel value)
         {
+            //string key = 
+
             if (SendMail._SendMail(value))
-                return "Email enviado com sucesso!";
+                return Json("Email enviado com sucesso!");
             else
-                return "Erro ao enviar email.";
+                return Json("Erro ao enviar email.");
         }
         
     }

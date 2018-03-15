@@ -12,13 +12,12 @@ namespace ApiMaratonaBots.Repository
     {
         public static bool _SendMail(MailModel value)
         {
-            AppSettings appSettings = new AppSettings
+            MailSettings appSettings = new MailSettings
             {
                 Host = "smtp.gmail.com",
                 Port = 587,
                 UserName = "rafaelestevaodeveloper@gmail.com",
                 Password = "124094raissa",
-                PathLog = "c:\\ConsoleSendMail",
                 SSL = true,
                 Sender = "rafaelestevaodeveloper@gmail.com"
             };
