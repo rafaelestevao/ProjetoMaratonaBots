@@ -7,3 +7,5 @@ Api/ApiMaratonaBots/.vs/ApiMaratonaBots/v15/Server/sqlite3/storage.ide-shm
 *.dll
 *.pdb
 *.cache
+*.ide
+Api/ApiMaratonaBots/.vs/ApiMaratonaBots/v15/.suo
